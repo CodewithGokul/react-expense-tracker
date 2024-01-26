@@ -1,6 +1,7 @@
 import React from 'react'
 
 function Newtrans() {
+  
   return (
     <>
     <h3>Add new transaction</h3>
